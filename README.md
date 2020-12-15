@@ -1,6 +1,6 @@
 ![](https://www.thomasmeli.tech/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-1.56.10-PM.png)
 
-I believe the important breakthroughs that will happen in the next 20 years will probably occur due to computational intelligence and resources.  I'm excited to use data science to partner with companies committed to solving our most pressing social and environmental problems.
+I believe the most important breakthroughs that will happen in the next 20 years will probably occur due to improving our computational intelligence and resources.  I'm excited to use data science to partner with companies committed to solving our most pressing social and environmental problems.
 
 Skills: Python | R | Tensorflow / Keras | Scikit-Learn | Tableau | Data Journalism | Compassionate Communication | 
 
