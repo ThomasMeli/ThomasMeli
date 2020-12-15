@@ -6,6 +6,6 @@ I now believe the most important breakthroughs that will happen in the next 20 y
 
 Skills: Python | R | Tensorflow / Keras | Scikit-Learn | Tableau | Data Journalism | Compassionate Communication | 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thomasmeli//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomasmeli/)  
 
 
