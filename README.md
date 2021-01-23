@@ -59,8 +59,8 @@ If missing data is not missing at random, then the fact that data is missing can
 
 ### Data Cleaning - Kaggle 
 
-https://www.kaggle.com/tpmeli/kaggle-questionere-csv-cleaning
-
+* Cleaning: https://www.kaggle.com/tpmeli/kaggle-questionere-csv-cleaning
+* Barplots: https://www.kaggle.com/tpmeli/barplots-of-all-questions-exploratory
 
 ### Cassava 
 
