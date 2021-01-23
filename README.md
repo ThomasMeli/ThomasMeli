@@ -16,7 +16,7 @@ Skills: Python | R | Tensorflow / Keras | Scikit-Learn | Tableau | Data Journali
 
 Dengue Fever is a mosquito-borne disease that often occurs in the tropics.  There are nearly half a billion cases of Dengue in Latin America alone.  In this competition, I made use of satellite and weather data to do the following:
 
-* Use vegetation indices and other weather variables to find strong correlations with mosquito incidence.
+* Used vegetation indices and other weather variables to find strong correlations with mosquito incidence.
 * Did a time series analysis to break down the time series into its unobserved components.
 * Interpolated missing data with a linear approximation due to the continuous nature of the variables.
 * Used sequence sensitive deep learning models (LSTM, GRU, etc.)
