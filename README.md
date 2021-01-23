@@ -49,7 +49,7 @@ https://www.kaggle.com/tpmeli/visual-guide-to-moa-eda-nn-walkthrough
 
 [<img src='https://github.com/ThomasMeli/predictions_analyzer/blob/main/docs/imgs/show_many_wrongs_mask.png' height = '200' width = '200'>](#) [<img src='https://github.com/ThomasMeli/predictions_analyzer/blob/main/docs/imgs/analyze_preds_bias.png' height = '200' width = '200'>](#)
 
-Different models are good at different things.  However, the sheer number of models and permutations of those models can make it time-consuming to analyzer which models are good at predicting which samples.  Predictions Analyzer is an open-source project designed to find out which samples are the hardest to predict, which are the easiest to predict, and which models are the most accurate on those hard-to-predict samples.
+Different models are good at different things.  However, the sheer number of models and permutations of those models can make it time-consuming to analyze which models are good at predicting which samples.  Predictions Analyzer is an open-source project designed to find out which samples are the hardest to predict, which are the easiest to predict, and which models are the most accurate on those hard-to-predict samples.
 
 It also seeks to automate much of the model selection pipeline so data scientists can focus on thinking through problems and interpreting their results in a statistically sound manner.  
 
