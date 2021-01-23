@@ -64,4 +64,6 @@ If missing data is not missing at random, then the fact that data is missing can
 
 ### Cassava 
 
+* R and Python: https://www.kaggle.com/tpmeli/cassava-r-and-python-eda
+
 --
