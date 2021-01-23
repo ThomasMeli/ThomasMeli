@@ -32,6 +32,12 @@ https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
 https://www.kaggle.com/tpmeli/visual-guide-3-m5-baselines-eda-sarima
 
+### Visual Guide to Mechanism of Action
+
+[<img src='https://www.kaggleusercontent.com/kf/43598053/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..sRbQEXWtXKV1e3YTzLPCEQ.R96R4xnlDxf3Tjo2KJ8-sPqqGMn0Cs7n3hXJxpB0vGilfgoTImAWW3N4HdtRa1dN0SutiBF3blGK3LwVDrLTGBCAtFOglIOqDZdFahUGZDeZu7Z3mhs-Xfaddu2Jw3So9-lfhBix7ZxpsFbMVpSoztfEhhP92Y8hgKofr1ncINlEdb7TXa4UXAbQdmf2ZP9QaXvcZ_3lNdc5sx45Et1-KTxbkybbcF7TyldIN14N7EMMZVQUvi0GUFlLcBviDLT26-dKiMD0hwE4Au8NTf0yrf4bFLG4GWwTfNMXIkdeU8eYVBOqnUGT0pAKWBVUJK1Q1bWuaXLGlDWSoJcWFlQ1MDo2SUkmAL8vxI6T0u1U5vEgeitJY2fiL6RYrzNn-SHWc-gJnmIOICH7a0OERsK5trjtLX58TyMxtfyBUkv17KO_XUge68_CkxGPLTcerI1JIuAp_1LyW0oPHr0mfEQasOyaExN-jAudwsTO-14xt5i2NCkl8k45kK0-vIVIZ6DzHaEjZcZSNl7u11Tne7pY8Rrzv6vfk77rX0VC1w8WrHqxMKQ-bgvM6rZIdbLsJV6YcqFxtDk2ByF-7mXOLHUrCTnaSDFAb6nifR6cIKgitSGLBOwZtyNBEe-EDiGjvB5vBVZEWCwfO4R47vPnjgxhZRw5ahzGwO3ykP1LUFkosQM.-qqQyDTe4pBlAnH8wJe_9g/__results___files/__results___38_0.png' height = '200' width = '200'>](#)  
+
+https://www.kaggle.com/tpmeli/visual-guide-to-moa-eda-nn-walkthrough
+
 ### Rare Species Classification
 
 [<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#)
