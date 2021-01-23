@@ -51,7 +51,7 @@ https://github.com/ThomasMeli/predictions_analyzer
 
 ### Data Science Bowl 2019
 
-My first major competition.  It was the first place that I started trying out what I was learning on a real dataset.  I learned an enormous amount about code conciseness, modularity, and how to explore models.
+My first major competition.  It was the first place that I used the skills I was learning on a real dataset for an extended period of time.  I learned an enormous amount about code conciseness, modularity, and how to explore models.
 
 [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/DSV-PCA.png' height = '200' width = '200'>](#) [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/DSB-decision_region.png' height = '200' width = '200'>](#) [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/DSB-Matrix.png' height = '200' width = '200'>](#)
 
