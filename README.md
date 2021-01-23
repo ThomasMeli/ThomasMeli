@@ -29,8 +29,10 @@ https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
 [<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#)
 
-* Used a SARIMA model (Seasonal autoregressive model) to successfully predict ~30 time steps ahead.
-* Created a visual guide that led to the notebook to be highly upvoted by the Kaggle community.
+Most sales data is represented as a time series and has seasonality associated with it.  In interpreting data over long periods of time, it is important to separate out the seasonal components from the long-term trends from the noise in the data.   After doing this, one can combine this seasonal information and long-term trend information to make more accurate predictions based on other external variables.  
+
+* I used a SARIMA model (Seasonal autoregressive model) to successfully predict ~30 time steps ahead.
+* I created a visual guide that led to the notebook to be highly upvoted by the Kaggle community.
 
 https://www.kaggle.com/tpmeli/visual-guide-3-m5-baselines-eda-sarima
 
