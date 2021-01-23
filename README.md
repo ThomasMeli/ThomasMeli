@@ -29,7 +29,7 @@ https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
 ### Rare Species Classification
 
-
+[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#)
 
 Ecological ID - Mel Spectrograms | Convolutional Neural Nets | Data Augmentation | GPU Learning | Tensorflow | Keras
 
@@ -44,6 +44,15 @@ Conserving rare species is both very important and represents a difficult data c
 
 
 ### Missingness Analysis 
+
+[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/Screen-Shot-2020-12-13-at-1.58.30-PM.png' height = '200' width = '200'>](#)
+
+If missing data is not missing at random, then the fact that data is missing can itself be important information.  In this missing data analysis, I show ‘fancy’ data imputation methods perform sub-optimally compared to a simple mean imputer.  
+
+* Missing data analysis.
+* Imputation comparisons.
+
+
 
 ### Cassava 
 
