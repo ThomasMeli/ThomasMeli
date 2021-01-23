@@ -85,13 +85,19 @@ If missing data is not missing at random, then the fact that data is missing can
 
 The conclusion: Mean imputation is better than iterative imputation.  "The null hypothesis here is that the means are equal within the missing data and the non-missing data. If this was true, it may mean that the missing values (even if they are missing-not-at-random), may not have a significant impact on the mean of the data.  The mean of the missing values is more negative here. The p-values are extremely small meaning that, if we assume the means are the same, the likelihood of getting our actual means is extremely unlikely. This allows us to reject the null hypothesis that the means are the same, providing more evidence for missing-not-at-random."
 
+https://www.kaggle.com/tpmeli/missing-data-exploration-mean-iterative-more
+
 ### Data Cleaning - Kaggle 
+
+A small project where very messy and inconvenient data was cleaned to make data analysis much easier for participants.
 
 * Cleaning: https://www.kaggle.com/tpmeli/kaggle-questionere-csv-cleaning
 * Barplots: https://www.kaggle.com/tpmeli/barplots-of-all-questions-exploratory
 
-### Cassava 
+### Cassava Disease Identification - R and Python in one RMarkdown script
 
-* R and Python: https://www.kaggle.com/tpmeli/cassava-r-and-python-eda
+In this project, I was learning the powerful R package reticulate.  It allows one to code in both Python and R, allowing the data scientist to get the best of both worlds.  I also did the project in RMarkdown instead of a Jupyter Notebook, which allowed for a very clearn tabular style that made for easier reading.
+
+* RMarkdown Doc: https://www.kaggle.com/tpmeli/cassava-r-and-python-eda
 
 --
