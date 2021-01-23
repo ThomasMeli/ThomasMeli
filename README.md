@@ -57,6 +57,9 @@ If missing data is not missing at random, then the fact that data is missing can
 * Missing data analysis.
 * Imputation comparisons.
 
+### Data Cleaning - Kaggle 
+
+https://www.kaggle.com/tpmeli/kaggle-questionere-csv-cleaning
 
 
 ### Cassava 
