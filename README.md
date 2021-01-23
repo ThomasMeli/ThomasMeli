@@ -25,7 +25,7 @@ Dengue Fever is a mosquito-borne disease that often occurs in the tropics.  Ther
 Achieved the top 8% in the world out of all participants.
 https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
-### Walmart Sales SARIMA Prediction
+### Walmart Sales - SARIMA Prediction
 
 [<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#)
 
@@ -36,7 +36,7 @@ Most sales data is represented as a time series and has seasonality associated w
 
 https://www.kaggle.com/tpmeli/visual-guide-3-m5-baselines-eda-sarima
 
-### Exploratory Data Analysis of Cell Mechanism of Action
+### Cell Mechanism of Action - Exploratory Data Analysis
 
 With the advent of cell and gene array techniques, many drugs can be used on various cell and gene lines simultaneously.  Making sense of the huge data that is generated represents a major difficulty.  Challenges in this competition involved vary noisy data as well as standardization that left the original gene and cell expressions unclear.  In this notebook, I perform a visual guide to the project and a preliminary data analysis for other data scientists to use.
 
@@ -45,7 +45,9 @@ With the advent of cell and gene array techniques, many drugs can be used on var
 
 https://www.kaggle.com/tpmeli/visual-guide-to-moa-eda-nn-walkthrough
 
-### Predictions Analyzer
+### Predictions Analyzer Package
+
+[<img src='https://github.com/ThomasMeli/predictions_analyzer/blob/main/docs/imgs/show_many_wrongs_mask.png' height = '200' width = '200'>](#) [<img src='https://github.com/ThomasMeli/predictions_analyzer/blob/main/docs/imgs/analyze_preds_bias.png' height = '200' width = '200'>](#)
 
 Different models are good at different things.  However, the sheer number of models and permutations of those models can make it time-consuming to analyzer which models are good at predicting which samples.  Predictions Analyzer is an open-source project designed to find out which samples are the hardest to predict, which are the easiest to predict, and which models are the most accurate on those hard-to-predict samples.
 
