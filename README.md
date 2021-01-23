@@ -27,7 +27,7 @@ https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
 ### Walmart Sales - SARIMA Prediction
 
-[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#)
+[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#) [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/m5_regression.png' height = '200' width = '200'>](#) [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/m5_boxplot.png' height = '200' width = '200'>](#)
 
 Most sales data is represented as a time series and has seasonality associated with it.  In interpreting data over long periods of time, it is important to separate out the seasonal components from the long-term trends from the noise in the data.   After doing this, one can combine this seasonal information and long-term trend information to make more accurate predictions based on other external variables.  
 
