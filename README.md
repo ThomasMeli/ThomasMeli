@@ -25,7 +25,7 @@ Dengue Fever is a mosquito-borne disease that often occurs in the tropics.  Ther
 Achieved the top 8% in the world out of all participants.
 https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
-### SARIMA Prediction
+### Walmart Sales SARIMA Prediction
 
 * Used a SARIMA model (Seasonal autoregressive model) to successfully predict ~30 time steps ahead.
 * Created a visual guide that led to the notebook to be highly upvoted by the Kaggle community.
