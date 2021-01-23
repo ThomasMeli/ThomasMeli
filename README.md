@@ -83,7 +83,7 @@ Conserving rare species is both very important and represents a difficult data c
 
 If missing data is not missing at random, then the fact that data is missing can itself be important information.  In this missing data analysis, I show ‘fancy’ data imputation methods perform sub-optimally compared to a simple mean imputer.  
 
-The conclusion: Mean imputation is better than iterative imputation.  "The null hypothesis here is that the means are equal within the missing data and the non-missing data. If this was true, it may mean that the missing values (even if they are missing-not-at-random), may not have a significant impact on the mean of the data.  The mean of the missing values is more negative here. The p-values are extremely small meaning that, if we assume the means are the same, the likelihood of getting our actual means is extremely unlikely. This allows us to reject the null hypothesis that the means are the same, providing more evidence for missing-not-at-random."
+Conclusion: "The null hypothesis here is that the means are equal within the missing data and the non-missing data. If this was true, it may mean that the missing values (even if they are missing-not-at-random), may not have a significant impact on the mean of the data.  The mean of the missing values is more negative here. The p-values are extremely small meaning that, if we assume the means are the same, the likelihood of getting our actual means is extremely unlikely. This allows us to reject the null hypothesis that the means are the same, providing more evidence for missing-not-at-random."
 
 https://www.kaggle.com/tpmeli/missing-data-exploration-mean-iterative-more
 
