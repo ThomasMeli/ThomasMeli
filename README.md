@@ -38,6 +38,14 @@ https://www.kaggle.com/tpmeli/visual-guide-3-m5-baselines-eda-sarima
 
 https://www.kaggle.com/tpmeli/visual-guide-to-moa-eda-nn-walkthrough
 
+### Predictions Analyzer
+
+Different models are good at different things.  However, the sheer number of models and permutations of those models can make it time-consuming to analyzer which models are good at predicting which samples.  Predictions Analyzer is an open-source project designed to find out which samples are the hardest to predict, which are the easiest to predict, and which models are the most accurate on those hard-to-predict samples.
+
+It also seeks to automate much of the model selection pipeline so data scientists can focus on thinking through problems and interpreting their results in a statistically sound manner.  
+
+https://github.com/ThomasMeli/predictions_analyzer
+
 ### Rare Species Classification
 
 [<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/SARIMA.png' height = '200' width = '200'>](#)
