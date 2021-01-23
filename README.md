@@ -8,7 +8,7 @@ Skills: Python | R | Tensorflow / Keras | Scikit-Learn | Tableau | Data Journali
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomasmeli/)  
 
-## Projects
+## Featured Projects
 
 ### Dengue Fever Analysis
 
@@ -26,6 +26,11 @@ Achieved the top 8% in the world out of all participants.
 https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
 
 ### SARIMA Prediction
+
+* Used a SARIMA model (Seasonal autoregressive model) to successfully predict ~30 time steps ahead.
+* Created a visual guide that led to the notebook to be highly upvoted by the Kaggle community.
+
+https://www.kaggle.com/tpmeli/visual-guide-3-m5-baselines-eda-sarima
 
 ### Rare Species Classification
 
