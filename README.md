@@ -8,4 +8,29 @@ Skills: Python | R | Tensorflow / Keras | Scikit-Learn | Tableau | Data Journali
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thomasmeli/)  
 
+## Projects
 
+### Dengue Fever Analysis
+
+[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/Dengue.png' height = '200' width = '200'>](https://www.linkedin.com/in/thomasmeli/)  
+
+Dengue Fever is a mosquito-borne disease that often occurs in the tropics.  There are nearly half a billion cases of Dengue in Latin America alone.
+
+*Use vegetation indices and other weather variables to find strong correlations with mosquito incidence.
+*Did a time series analysis to break down the time series into its unobserved components.
+*Interpolated missing data with a linear approximation due to the continuous nature of the variables.
+*Used sequence sensitive deep learning models (LSTM, GRU, etc.)
+*Ensemble these techniques with tree based regression classifies (XGBoost, Extratrees).
+
+Achieved the top 8% in the world out of all participants.
+https://github.com/ThomasMeli/DengueAI2/blob/main/dengue_eda.ipynb
+
+### SARIMA Prediction
+
+### Rare Species Classification
+
+### Missingness Analysis 
+
+### Cassava 
+
+--
