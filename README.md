@@ -12,7 +12,7 @@ Skills: Python | R | Tensorflow / Keras | Scikit-Learn | Tableau | Data Journali
 
 ### Dengue Fever Analysis
 
-[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/Dengue.png' height = '200' width = '200'>](#)
+[<img src='https://www.thomasmeli.tech/wp-content/uploads/2020/12/Dengue.png' height = '200' width = '200'>](#) [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/Dengue-ROC.png' height = '200' width = '200'>](#) [<img src='https://www.thomasmeli.tech/wp-content/uploads/2021/01/Dengue-Rolling.png' height = '200' width = '200'>](#)
 
 Dengue Fever is a mosquito-borne disease that often occurs in the tropics.  There are nearly half a billion cases of Dengue in Latin America alone.
 
