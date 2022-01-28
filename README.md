@@ -6,7 +6,7 @@ I now believe the most important breakthroughs that will happen in the next 20 y
 
 ---
 
-Skills: Python | R | JS | D3 | Rust | TF / Keras | Scikit-Learn | SQL | Explorable Explainers | Compassionate Communication | 
+Skills: Python | R | JS | D3 | Julia |  Rust | TF / Keras | Scikit-Learn | SQL | Explorable Explainers | Compassionate Communication | 
 
 ---
 
