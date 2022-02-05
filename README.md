@@ -2,7 +2,7 @@
 
 In 2016, when AlphaGo beat Lee Sedol in Go, my world was shaken.  I had been playing Go since I was 15, and never thought a computer would beat a professional human.
 
-I now believe the most important breakthroughs that will happen in the next 20 years will probably occur due to improving our computational intelligence and resources.  I'm excited to use data science to partner with companies committed to solving our most pressing social and environmental problems.
+I now believe the most important breakthroughs that will happen in the next 20 years will probably occur due to improving our computational intelligence and resources.   My gift is explaining complicated concepts in a clear and intuitive way.  My mission involves disrupting traditional education with technology so that the mystery of being alive in an ecological, social, and cultural web is kept alive and vibrant throughout life.
 
 ---
 
