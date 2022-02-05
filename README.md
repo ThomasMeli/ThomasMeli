@@ -1,8 +1,8 @@
 ![](https://www.thomasmeli.tech/wp-content/uploads/2020/12/Screen-Shot-2020-12-15-at-1.56.10-PM.png)
 
-In 2016, when AlphaGo beat Lee Sedol in Go, my world was shaken.  I had been playing Go since I was 15, and never thought a computer would beat a professional human.
+In 2016, when AlphaGo beat Lee Sedol in Go, my world was shaken.  I had been playing Go since I was 15, and never thought a computer would beat a professional human.  I now believe the most important breakthroughs that will happen in the next 20 years will probably occur due to improving our computational intelligence and resources.   
 
-I now believe the most important breakthroughs that will happen in the next 20 years will probably occur due to improving our computational intelligence and resources.   My gift is explaining complicated concepts in a clear and intuitive way.  My mission involves disrupting traditional education with technology so that the mystery of being alive in an ecological, social, and cultural web is kept alive and vibrant throughout life.
+My gift is explaining complicated concepts in a clear and intuitive way and making intriguing connections across disciplines.  My mission involves disrupting traditional education with technology so that the mystery of being alive in an ecological, social, and cultural web is kept alive and vibrant throughout life.
 
 ---
 
