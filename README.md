@@ -20,7 +20,8 @@ I really enjoy the aesthetics and power of beautiful and intelligent code.  I'm 
 * **Free Online Data Science Books** - https://github.com/ThomasMeli/Data_Free_Books
 * **Interactive Learning and Explorables** - Simply the best way to learn anything. - https://github.com/ThomasMeli/Data_Interactive_Learning
 
-## Featured Projects
+
+## Previous Data Science Work 
 
 ### Dengue Fever Analysis
 
