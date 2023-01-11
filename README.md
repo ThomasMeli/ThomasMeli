@@ -6,7 +6,7 @@ My gifts are explaining complicated concepts in a clear and intuitive way and ma
 
 ---
 
-Skills: Python | JS / TS | Svelte | TDD-ish | D3 | R |  Rust | TF / Keras | Scikit-Learn | SQL | Explorable Explainers | Compassionate Communication | 
+Skills:  JS / TS | Svelte(kit) | TDD-ish | D3 | Python | R |  Rust | TF / Keras | Scikit-Learn | SQL | Explorable Explainers | Compassionate Communication | 
 
 I really enjoy the aesthetics and power of beautiful and intelligent code.  I'm interested in education disruption, model building for clarity, statistical analysis, and visual interactive explainers.
 
